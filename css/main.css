@@ -16,6 +16,16 @@ section {
 
 h1.title {
   border-bottom: 1px solid #333;
+  background: #FFDEC7;
+}
+
+h1, h2, h3, h4, h5 {
+	font-family: "Pacifico", "Helvetica", sans-serif;
+}
+
+p {
+	background: #D1E3DF;
+	padding:10px;
 }
 
 .formelement {
